@@ -25,7 +25,7 @@ SECRET_KEY = 'h^4ho4-=(#1=^%=@&r^+(mj^y%r-j7+z1y6j#r_ffdm70%)7$u'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<impressionme>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'impressionme.pythonanywhere.com']
 
 
 # Application definition
